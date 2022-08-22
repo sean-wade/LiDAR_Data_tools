@@ -1,0 +1,5 @@
+# In meters
+Lidar_To_Ground_Z: -1.80
+
+#In meters
+Ins_To_Ground_Z: -0.685
